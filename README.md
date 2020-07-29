@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+🔭 I’m currently involved in several personal opensource projects:
+- [JTyper](https://github.com/mikbry/jtyper/projects/1)
+- [Ziiircom](https://github.com/mikbry/Ziiircom/projects/1)
+- [material-ui-color](https://github.com/mikbry/material-ui-color)
+- And more
+
+Also I work for clients on mobile/web apps around video-processing, AI and B2B.
+
+🌱 I’m currently learning Rust and some new AI concepts.
+ 
+👯 I’m looking to collaborate on complex projects using AI, video and 3D 
+
+💬 Ask me about any tricky problems in your Javascript, Android, iOs code. Put a misfit project on right tracks.
+
+📫 How to reach me: hello@mikbry.com
+
+😄 Pronunciation:
+- Mik as Mik Jagger
+- Bry as Bree Van de Kamp
+
+⚡ Fun fact:
+- Hek
+
 <!--
 [Experimental] CV
 
