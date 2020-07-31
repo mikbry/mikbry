@@ -21,8 +21,7 @@ Also I work for clients on mobile/web apps around video-processing, AI and B2B.
 - Bry as Bree Van de Kamp
 
 ⚡ Fun fact:
-- Hek
-
+Here is a bug in Profile Readme.md . The picture display correctly in project, but not here.
 ![Code cat](/coding-cat.gif)
 
 <!--
