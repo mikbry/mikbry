@@ -12,7 +12,7 @@ Also I work for clients on mobile/web apps around video-processing, AI and B2B.
  
 👯 I’m looking to collaborate on complex projects using AI, video and 3D 
 
-💬 Ask me about any tricky problems in your javascript, Android, iOs app. I put a misfit project on right tracks.
+💬 Ask me about any tricky problems in your javascript, Android or iOs app. I put a misfit project on right tracks.
 
 📫 How to reach me: hello@mikbry.com
 
