@@ -16,7 +16,7 @@ Also I work for clients on mobile/web apps around video-processing, AI and B2B.
 
 📫 How to reach me: hello@mikbry.com
 
-😄 Pronunciation:
+😄 Pronunciation of my name:
 - Mik as Mik Jagger
 - Bry as Bree Van de Kamp
 
