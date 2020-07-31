@@ -23,6 +23,8 @@ Also I work for clients on mobile/web apps around video-processing, AI and B2B.
 ⚡ Fun fact:
 - Hek
 
+![Code cat](/coding-cat.gif)
+
 <!--
 [Experimental] CV
 
