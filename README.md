@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently involved in several personal opensource projects:
+🔭 I’m currently involved in several personal open-source projects:
 - [JTyper](https://github.com/mikbry/jtyper/projects/1)
 - [Ziiircom](https://github.com/mikbry/Ziiircom/projects/1)
 - [material-ui-color](https://github.com/mikbry/material-ui-color)
