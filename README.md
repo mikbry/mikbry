@@ -6,7 +6,7 @@
 - [material-ui-color](https://github.com/mikbry/material-ui-color)
 - And more
 
-Also I work for clients on mobile/web apps around video-processing, AI and B2B.
+Also I work for clients on complex mobile/web apps with video-processing and AI.
 
 🌱 I’m currently learning Rust and some new AI concepts.
  
