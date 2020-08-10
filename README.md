@@ -14,7 +14,7 @@ Also I work for clients on complex mobile/web apps with video-processing and AI.
 
 💬 Ask me about any tricky problems in your javascript, Android or iOs app. I put a misfit project on right tracks.
 
-📫 How to reach me: hello@mikbry.com / [My personal website](https://mikbry.com)
+📫 How to reach me: hello@mikbry.com / [My personal website](https://mikbry.com) / [@mikbry](https://twitter.com/mikbry)
 
 😄 Pronunciation of my name:
 - Mik as Mik Jagger
