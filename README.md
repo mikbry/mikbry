@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my Github account
+
 🔭 I’m currently involved in several personal open-source projects:
 - [JTyper](https://github.com/mikbry/jtyper/projects/1)
 - [Ziiircom](https://github.com/mikbry/Ziiircom/projects/1)
