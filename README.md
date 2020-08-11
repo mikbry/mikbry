@@ -12,7 +12,7 @@ Also I work for clients on complex mobile/web apps involving video-processing an
 
 🌱 I’m currently learning Rust/WebGPU/WASM and some new AI concepts.
  
-👯 I’m looking to collaborate on intricate projects using AI, video and or 3D .
+👯 I’m looking to collaborate on cool projects involving AI, video and or 3D .
 
 💬 Ask me about any tricky problems in your javascript, Android or iOs app. I put a misfit project on right tracks.
 
