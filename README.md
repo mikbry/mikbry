@@ -5,7 +5,7 @@ Welcome to my Github account
 🔭 I’m currently involved in several personal open-source projects, trying to push the limits :
 - [JTyper](https://github.com/mikbry/jtyper/projects/1) : Data computing in browser using modern Javascript and soon GPU/WASM/Rust
 - [Ziiircom](https://github.com/mikbry/Ziiircom/projects/1) : Create the most advanced webchat toolkit to integrate in your app/web
-- [material-ui-color](https://github.com/mikbry/material-ui-color) : How to do a complete Material-ui component using minimal ressources
+- [material-ui-color](https://github.com/mikbry/material-ui-color) : How to do top-notch Material-ui components using minimal ressources
 - And more
 
 Also I work for clients on cutting-edge mobile/web apps involving video-processing and AI.
