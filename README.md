@@ -25,7 +25,7 @@ Also I work for clients on cutting-edge mobile/web apps involving video-processi
 ⚡ Fun fact:
 
 Here is a bug in Profile Readme.md . The picture display correctly in project, but not here.
-![Code cat](/coding-cat.gif)
+![Coding cat](/coding-cat.gif)
 
 <!--
 [Experimental] CV
