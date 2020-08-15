@@ -14,7 +14,7 @@ Also I work for clients on cutting-edge mobile/web apps involving video-processi
  
 👯 I’m open to collaborate on cool projects involving AI, video and or 3D.
 
-💬 Ask me about any tricky problems in your javascript, Android or iOs app. I put a misfit project on right tracks.
+💬 Ask me about any tricky problems in your javascript, Android or iOs app. I put misfit projects on the right track.
 
 📫 How to reach me: hello@mikbry.com / [My personal website](https://mikbry.com) / [@mikbry](https://twitter.com/mikbry) / [Linkedin](https://www.linkedin.com/in/mikbry)
 
