@@ -20,7 +20,7 @@ As a developer, or a lead/CTO, I bring my long experience in coding on a lot's o
 
 📫 How to reach me: hello@mikbry.com / [My personal website](https://mikbry.com) / [@mikbry](https://twitter.com/mikbry) / [Linkedin](https://www.linkedin.com/in/mikbry)
 
-😄 Pronunciation of my name:
+😄 Pronunciation of my (last)name:
 - Mik as Mik Jagger
 - Bry as Bree Van de Kamp
 
