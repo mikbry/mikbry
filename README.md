@@ -14,7 +14,7 @@ As a developer, or a lead/CTO, I bring my long experience in coding on a lot's o
 
 🌱 I’m currently learning Rust/WebGPU/WASM and some new AI concepts.
  
-👯 I’m open to collaborate on cool projects involving AI, video and or 3D.
+👯 I’m open to collaboration on cool projects involving AI, video and or 3D.
 
 💬 Ask me about any tricky problems in your javascript, Android or iOs app. I put misfit projects on the right track.
 
