@@ -10,7 +10,7 @@ Welcome to my Github account ;-)
 - And more
 
 Also I work for clients on cutting-edge mobile/web apps involving video-processing and AI.
-As a developer, or a lead/CTO, I bring my long experience in coding on a lot's of languages (Js, Java, Swift / Objective-C, C++, PHP, Python)
+As a developer, or a lead/CTO, I bring my long experience in coding on a lot's of languages (Js, Java, Swift / Objective-C, C++, PHP, Python) and managing projects and people.
 
 🌱 I’m currently learning Rust/WebGPU/WASM and some new AI concepts.
  
