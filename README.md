@@ -26,7 +26,7 @@ As a developer, or a lead/CTO, I bring my long experience in coding on a lot's o
 
 ⚡ Fun fact:
 
-Here is a bug in Profile Readme.md . The picture display correctly in project, but not in profile.
+Here is a bug in Profile Readme.md . The picture is displayed correctly in project, but not in profile.
 ![Coding cat](/coding-cat.gif)
 
 <!--
