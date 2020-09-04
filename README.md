@@ -1,6 +1,6 @@
 ### Hi there ! 👋
 
-Welcome to my Github account ;-)
+Welcome to my Github account 😉
 
 🔭 I am currently involved in several personal open-source projects. Where I experiment, learn and push back the limits:
 - [JTyper](https://github.com/mikbry/jtyper/projects/1) : Data computing in browser using modern Javascript and soon GPU/WASM/Rust
