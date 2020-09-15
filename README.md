@@ -29,6 +29,7 @@ As a developer, as a lead or as a CTO, I bring my long experience in coding usin
 Here is a bug in Profile Readme.md.
 
 The picture is displayed correctly in project, but not in profile.
+
 ![Coding cat](/coding-cat.gif)
 
 <!--
