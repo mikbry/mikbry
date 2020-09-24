@@ -27,6 +27,7 @@ As a developer, as a lead or as a CTO, I bring my long experience in coding usin
 ⚡ Fun fact:
 
 Thanks Github you fix the path bug !
+
 ![Coding cat](/coding-cat.gif)
 
 <!--
