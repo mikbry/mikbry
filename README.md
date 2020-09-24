@@ -26,10 +26,7 @@ As a developer, as a lead or as a CTO, I bring my long experience in coding usin
 
 ⚡ Fun fact:
 
-Here is a bug in Profile Readme.md.
-
-The picture is displayed correctly in project, but not in profile.
-
+Thanks Github you fix the path bug !
 ![Coding cat](/coding-cat.gif)
 
 <!--
