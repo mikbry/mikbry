@@ -16,7 +16,7 @@ As a developer, as a lead or as a CTO, I bring my long experience in coding usin
  
 👯 I’m open to collaboration on cool projects involving AI, video and or 3D.
 
-💬 Ask me about any tricky problems in your javascript, Android or iOs app. I put misfit projects on the right track.
+💬 Ask me about any tricky problems in your React, React-native, Android or iOs app. I put misfit projects on the right track.
 
 📫 How to reach me: hello@mikbry.com / [My personal website](https://mikbry.com) / [@mikbry](https://twitter.com/mikbry) / [Linkedin](https://www.linkedin.com/in/mikbry)
 
