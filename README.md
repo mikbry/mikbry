@@ -29,7 +29,7 @@ As a developer, as a lead or as a CTO, I bring my long experience in coding usin
 Thanks Github for the dark mode and discussions !
 
 ![Coding cat](/coding-cat.gif)
-![Html inside svg](/toto.svg)
+<!-- ![Html inside svg](/toto.svg) -->
 <!--
 [Experimental] CV
 
