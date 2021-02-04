@@ -26,7 +26,7 @@ As a developer, as a lead or as a CTO, I bring my long experience in coding usin
 
 ⚡ Fun fact:
 
-Thanks Github for the dark mode and discussions !
+<!-- Thanks Github for the dark mode and discussions ! -->
 
 ![Coding cat](/coding-cat.gif)
 <!-- ![Html inside svg](/toto.svg) -->
