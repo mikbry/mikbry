@@ -3,7 +3,7 @@
 Welcome to my Github account 😉
 
 🔭 I am currently involved in several personal open-source projects. Where I experiment, learn and push back the limits:
-- [JTyper](https://github.com/mikbry/jtyper/projects/1) : Data computing in browser using modern Javascript and soon GPU/WASM/Rust
+- [VPiper](https://github.com/mikbry/vpiper) : Nextgen cross-platform solution to transform, transcode and stream medias in realtime using HA and ML.
 - [Ziiircom](https://github.com/mikbry/Ziiircom/projects/1) : Create the most advanced webchat toolkit to integrate in your app/web
 - [material-ui-color](https://github.com/mikbry/material-ui-color) : How to do top-notch Material-ui components with minimal dependencies and ressources
 - [din-o](https://github.com/mikbry/din-o) : Deno + Webrtc solution for webconf, at an early stage.
