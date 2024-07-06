@@ -1,48 +1,54 @@
-### Hi there ! 👋
+# Hi there! 👋 Welcome to my GitHub account
 
-Welcome to my Github account 😉
+I'm Mik BRY, a seasoned CTO and full-stack developer with over 25 years of experience in the tech industry. I'm passionate about pushing the boundaries of technology, particularly in AI, video processing, and cross-platform development.
 
-🔭 I am currently involved in several personal open-source projects. Where I experiment, learn and push back the limits:
-- [VPiper](https://github.com/mikbry/vpiper) : Nextgen cross-platform solution to transform, transcode and stream medias in realtime using HA and ML.
-- [Ziiircom](https://github.com/mikbry/Ziiircom/projects/1) : Create the most advanced webchat toolkit to integrate in your app/web
-- [material-ui-color](https://github.com/mikbry/material-ui-color) : How to do top-notch Material-ui components with minimal dependencies and ressources
-- [din-o](https://github.com/mikbry/din-o) : Deno + Webrtc solution for webconf, at an early stage.
-- And more
+## 🔭 Current Open-Source Projects
 
-Also I work for clients on cutting-edge mobile/web apps involving video-processing and AI.
-As a developer, as a lead or as a CTO, I bring my long experience in coding using different languages (Javascript, Java, Swift / Objective-C, C/C++, PHP, Python) and managing projects and people as efficiently as possible.
+I'm currently involved in several personal open-source projects where I experiment, learn, and innovate:
 
-🌱 I’m currently learning Rust/WebGPU/WASM and some new AI concepts.
- 
-👯 I’m open to collaboration on cool projects involving AI, video and or 3D.
+* **Opla**: Pioneering local and secure AI solutions using Rust and TypeScript.
+* **VPiper**: Next-gen cross-platform solution for real-time media transformation, transcoding, and streaming using HA and ML.
+* **Ziiircom**: Creating the most advanced webchat toolkit for app/web integration.
 
-💬 Ask me about any tricky problems in your React, React-native, Android or iOs app or backend. I put misfit projects on the right track.
+## 🚀 Professional Experience
 
-📫 How to reach me: hello@mikbry.com / [My personal website](https://mikbry.com) / [@mikbry](https://twitter.com/mikbry) / [Linkedin](https://www.linkedin.com/in/mikbry)
+I'm the founder of Opla and have previously served as CTO for companies like Storyfox and Cwb SAS. My expertise spans:
 
-😄 Pronunciation of my (last)name:
-- Mik as Mik Jagger
-- Bry as Bree Van de Kamp
+* Full-stack development (JavaScript, React, Node.js, Rust)
+* Mobile app development (iOS, Android, React Native)
+* AI and Machine Learning implementation
+* Cloud architecture and DevOps (AWS, GCP, Docker, Kubernetes)
+* Video processing and 3D graphics
+* Team leadership and project management
 
-⚡ Fun fact:
+## 🌱 Current Learning Focus
 
-<!-- Thanks Github for the dark mode and discussions ! -->
+I'm deepening my knowledge in Rust, WebGPU, WebAssembly, and exploring new AI concepts.
+
+## 👯 Collaboration Interests
+
+I'm open to collaborating on innovative projects involving AI, video processing, and 3D graphics.
+
+## 💬 Ask Me About
+
+* Troubleshooting complex React, React Native, Android, or iOS apps
+* Optimizing backend performance and scalability
+* Implementing AI and ML in practical applications
+* Strategies for effective tech leadership and team management
+
+## 📫 How to Reach Me
+
+* Email: hello@mikbry.com
+* Website: [mikbry.com](https://mikbry.com)
+* Twitter: [@mikbry](https://twitter.com/mikbry)
+* LinkedIn: [Mik BRY](https://www.linkedin.com/in/mikbry)
+
+## 😄 Pronunciation Guide
+
+* Mik: Think "Mick Jagger"
+* Bry: Rhymes with "Bree" (as in Bree Van de Kamp)
+
+## ⚡ Fun Fact
 
 ![Coding cat](/coding-cat.gif)
-<!-- ![Html inside svg](/toto.svg) -->
-<!--
-[Experimental] CV
 
-**mikbry/mikbry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
