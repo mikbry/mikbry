@@ -1,54 +1,110 @@
-# Hi there! 👋 Welcome to my GitHub account
+# Hi, I'm Mik
 
-I'm Mik BRY, a seasoned CTO and full-stack developer with over 25 years of experience in the tech industry. I'm passionate about pushing the boundaries of technology, particularly in AI, video processing, and cross-platform development.
+I'm a **Fractional CTO and hands-on software engineer** with 25+ years of experience building and shipping software.
 
-## 🔭 Current Open-Source Projects
+Today, I mainly help founders turn **ideas and AI-built prototypes into products that are ready for the real world**.
 
-I'm currently involved in several personal open-source projects where I experiment, learn, and innovate:
+AI tools make it incredibly fast to get something working. My work starts around the point where the questions become harder:
 
-* **Opla**: Pioneering local and secure AI solutions using Rust and TypeScript.
-* **VPiper**: Next-gen cross-platform solution for real-time media transformation, transcoding, and streaming using HA and ML.
-* **Ziiircom**: Creating the most advanced webchat toolkit for app/web integration.
+- Is the architecture going to hold?
+- Are auth, payments and customer data handled correctly?
+- What happens outside the happy path?
+- Can another developer understand and maintain the code?
+- What will become expensive or fragile when real users arrive?
+- What should be fixed now, and what can safely wait?
 
-## 🚀 Professional Experience
+## What I'm working on now
 
-I'm the founder of Opla and have previously served as CTO for companies like Storyfox and Cwb SAS. My expertise spans:
+### Launch readiness for AI-built apps
 
-* Full-stack development (JavaScript, React, Node.js, Rust)
-* Mobile app development (iOS, Android, React Native)
-* AI and Machine Learning implementation
-* Cloud architecture and DevOps (AWS, GCP, Docker, Kubernetes)
-* Video processing and 3D graphics
-* Team leadership and project management
+I'm building tools and methods to make AI-built and vibe-coded products easier to evaluate before production.
 
-## 🌱 Current Learning Focus
+The process ranges from a **local automated Launch Readiness Scan**, through a deeper **Trust Report**, to human-led technical audits when the product needs more context and judgment.
 
-I'm deepening my knowledge in Rust, WebGPU, WebAssembly, and exploring new AI concepts.
+The goal isn't to make AI development slower.
 
-## 👯 Collaboration Interests
+It's to keep the speed while adding the engineering discipline needed once real users, money and data are involved.
 
-I'm open to collaborating on innovative projects involving AI, video processing, and 3D graphics.
+### AI-first software development
 
-## 💬 Ask Me About
+I use AI agents extensively in my own development workflow: specifications, implementation, testing, code review, documentation and analysis.
 
-* Troubleshooting complex React, React Native, Android, or iOS apps
-* Optimizing backend performance and scalability
-* Implementing AI and ML in practical applications
-* Strategies for effective tech leadership and team management
+I'm particularly interested in the boundary between what agents can automate reliably and where experienced human judgment still matters.
 
-## 📫 How to Reach Me
+### Local and private AI
 
-* Email: hello@mikbry.com
-* Website: [mikbry.com](https://mikbry.com)
-* Twitter: [@mikbry](https://twitter.com/mikbry)
-* LinkedIn: [Mik BRY](https://www.linkedin.com/in/mikbry)
+I'm the founder of **Opla**, an open-source project exploring local, privacy-first AI assistants with Rust, TypeScript and Tauri.
 
-## 😄 Pronunciation Guide
+## Selected open source
 
-* Mik: Think "Mick Jagger"
-* Bry: Rhymes with "Bree" (as in Bree Van de Kamp)
+Some projects I've built or contributed to over the years:
 
-## ⚡ Fun Fact
+- **Opla/opla** — Local and privacy-first AI assistants using Rust, TypeScript and Tauri
+- **webgpu-tensors** — Experimental tensor framework using WebGPU, TypeScript and Rust
+- **awesome-webgpu** — Curated resources around the WebGPU ecosystem
+- **vpiper** — Cross-platform real-time media processing, transcoding and streaming
+- **mui-color** — Material UI color picker
+- **anzip** — Async unzip library for Node.js
 
-![Coding cat](/coding-cat.gif)
+My GitHub also contains experiments around WebAssembly, WebGPU, video, mobile, AI and low-level systems work.
 
+## What I do professionally
+
+I work as a **Fractional CTO / Tech Lead** on products that need senior technical judgment without necessarily building a full internal CTO organisation.
+
+Typical work includes:
+
+- AI-built product and codebase reviews
+- launch readiness and production hardening
+- software architecture
+- React / Next.js / Node.js platforms
+- Rust, WebAssembly and performance-critical systems
+- authentication, payments and data architecture
+- cloud infrastructure and deployment
+- AI-assisted engineering workflows
+- technical leadership and team supervision
+
+I've worked across SaaS, AI, cryptography, video, mobile, legaltech and cybersecurity.
+
+## A few technologies I keep coming back to
+
+**Product & web**  
+TypeScript · React · Next.js · Node.js · PostgreSQL
+
+**Systems**  
+Rust · C/C++ · WebAssembly · WebGPU
+
+**AI**  
+LLMs · RAG · AI agents · local inference · AI-assisted development
+
+**Mobile & media**  
+Swift · Kotlin · React Native · FFmpeg · video pipelines
+
+**Infrastructure**  
+Docker · Kubernetes · AWS · GCP · European cloud providers
+
+## Writing
+
+I write about what happens **after an AI-built prototype starts working**: production risk, security, architecture, costs, privacy and the decisions that still need experienced human judgment.
+
+You can find the articles on **mikbry.com**.
+
+## Built something with AI?
+
+If the prototype works but you're not sure whether it's ready for production, start with the **Launch Readiness Scan** on mikbry.com.
+
+For deeper analysis, I also offer:
+
+- **Trust Report** — automated product/code review, with an optional review with me
+- **Audit** — deeper AI-assisted and human CTO review
+
+## Contact
+
+**Website:** mikbry.com  
+**LinkedIn:** Mik BRY  
+**X / Twitter:** @mikbry  
+**Email:** hello@mikbry.com
+
+---
+
+Still building. Still learning. Still shipping.
