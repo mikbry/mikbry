@@ -1,75 +1,43 @@
 # Hi, I'm Mik
 
-I'm a **Fractional CTO and hands-on software engineer** with 25+ years of experience building and shipping software.
+I'm a **Fullstack Tech Lead and hands-on CTO** with 25+ years of experience building and shipping software.
 
-Today, I mainly help founders turn **ideas and AI-built prototypes into products that are ready for the real world**.
+I build web and mobile products and help teams make technical decisions that serve their business. I work directly on development, architecture and delivery—from a new MVP to an existing product that needs to evolve.
 
-AI tools make it incredibly fast to get something working. My work starts around the point where the questions become harder:
+With founders and business leaders, I explain the options, trade-offs and risks in plain language. With engineering teams, I contribute to the code, help resolve technical problems and move delivery forward.
 
-- Is the architecture going to hold?
-- Are auth, payments and customer data handled correctly?
-- What happens outside the happy path?
-- Can another developer understand and maintain the code?
-- What will become expensive or fragile when real users arrive?
-- What should be fixed now, and what can safely wait?
+## What I do
 
-## What I'm working on now
+- **Build and launch products** — web and mobile applications, MVPs, SaaS, features and business integrations.
+- **Reinforce engineering teams** — senior development, architecture, performance and production delivery.
+- **Take hands-on technical responsibility** — product direction, technical budgets, delivery priorities and collaboration with teams or external partners.
+- **Apply AI to concrete needs** — agents, RAG, local inference and integrations with existing tools.
+- **Review and improve existing products** — understand the code, identify risks and implement the changes needed.
 
-### Launch readiness for AI-built apps
-
-I'm building tools and methods to make AI-built and vibe-coded products easier to evaluate before production.
-
-The process ranges from a **local automated Launch Readiness Scan**, through a deeper **Trust Report**, to human-led technical audits when the product needs more context and judgment.
-
-The goal isn't to make AI development slower.
-
-It's to keep the speed while adding the engineering discipline needed once real users, money and data are involved.
-
-### AI-first software development
-
-I use AI agents extensively in my own development workflow: specifications, implementation, testing, code review, documentation and analysis.
-
-I'm particularly interested in the boundary between what agents can automate reliably and where experienced human judgment still matters.
-
-### Local and private AI
-
-I'm the founder of **Opla**, an open-source project exploring local, privacy-first AI assistants with Rust, TypeScript and Tauri.
-
-## Selected open source
-
-Some projects I've built or contributed to over the years:
-
-- **Opla/opla** — Local and privacy-first AI assistants using Rust, TypeScript and Tauri
-- **webgpu-tensors** — Experimental tensor framework using WebGPU, TypeScript and Rust
-- **awesome-webgpu** — Curated resources around the WebGPU ecosystem
-- **vpiper** — Cross-platform real-time media processing, transcoding and streaming
-- **mui-color** — Material UI color picker
-- **anzip** — Async unzip library for Node.js
-
-My GitHub also contains experiments around WebAssembly, WebGPU, video, mobile, AI and low-level systems work.
-
-## What I do professionally
-
-I work as a **Fractional CTO / Tech Lead** on products that need senior technical judgment without necessarily building a full internal CTO organisation.
-
-Typical work includes:
-
-- AI-built product and codebase reviews
-- launch readiness and production hardening
-- software architecture
-- React / Next.js / Node.js platforms
-- Rust, WebAssembly and performance-critical systems
-- authentication, payments and data architecture
-- cloud infrastructure and deployment
-- AI-assisted engineering workflows
-- technical leadership and team supervision
+My core stack is **TypeScript, React, Node.js and React Native**, alongside experience in native iOS/Android development, Rust and applied AI.
 
 I've worked across SaaS, AI, cryptography, video, mobile, legaltech and cybersecurity.
 
-## A few technologies I keep coming back to
+## Products and open source
 
-**Product & web**  
+I develop my own products and open-source projects alongside client work:
+
+- **[Opla](https://github.com/Opla/opla)** — local, privacy-first AI assistants built with Rust, TypeScript and Tauri. I'm the founder.
+- **[webgpu-tensors](https://github.com/mikbry/webgpu-tensors)** — experimental tensor framework using WebGPU, TypeScript and Rust.
+- **[awesome-webgpu](https://github.com/mikbry/awesome-webgpu)** — curated resources around the WebGPU ecosystem.
+- **[vpiper](https://github.com/mikbry/vpiper)** — cross-platform real-time media processing, transcoding and streaming.
+- **[mui-color](https://github.com/mikbry/mui-color)** — Material UI color picker.
+- **[anzip](https://github.com/mikbry/anzip)** — async unzip library for Node.js.
+
+My GitHub also contains experiments around WebAssembly, WebGPU, video, mobile, AI and low-level systems work.
+
+## Technologies
+
+**Web & product**  
 TypeScript · React · Next.js · Node.js · PostgreSQL
+
+**Mobile & media**  
+React Native · Objective-C · Java / JNI · native iOS / Android · FFmpeg · video pipelines
 
 **Systems**  
 Rust · C/C++ · WebAssembly · WebGPU
@@ -77,34 +45,23 @@ Rust · C/C++ · WebAssembly · WebGPU
 **AI**  
 LLMs · RAG · AI agents · local inference · AI-assisted development
 
-**Mobile & media**  
-Swift · Kotlin · React Native · FFmpeg · video pipelines
-
 **Infrastructure**  
 Docker · Kubernetes · AWS · GCP · European cloud providers
 
-## Writing
+## How I work with AI
 
-I write about what happens **after an AI-built prototype starts working**: production risk, security, architecture, costs, privacy and the decisions that still need experienced human judgment.
+I use AI agents in my development workflow: specifications, implementation, testing, code review, documentation and analysis. I focus on keeping delivery fast while making the result understandable, maintainable and ready for real users.
 
-You can find the articles on **mikbry.com**.
+I also develop methods and tools for reviewing AI-built applications, including launch-readiness scans and deeper technical audits.
 
-## Built something with AI?
+## Writing and contact
 
-If the prototype works but you're not sure whether it's ready for production, start with the **Launch Readiness Scan** on mikbry.com.
+I write about building products, software architecture, AI-assisted development and the decisions behind reliable software at **[mikbry.com](https://mikbry.com)**.
 
-For deeper analysis, I also offer:
+Have a product to build, a team to reinforce or a technical challenge to resolve?
 
-- **Trust Report** — automated product/code review, with an optional review with me
-- **Audit** — deeper AI-assisted and human CTO review
+- **Website:** [mikbry.com](https://mikbry.com)
+- **LinkedIn:** [Mik BRY](https://www.linkedin.com/in/mikbry/)
+- **X:** [@mikbry](https://x.com/mikbry)
+- **Email:** hello@mikbry.com
 
-## Contact
-
-**Website:** mikbry.com  
-**LinkedIn:** Mik BRY  
-**X / Twitter:** @mikbry  
-**Email:** hello@mikbry.com
-
----
-
-Still building. Still learning. Still shipping.
